@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Movies</string>
+    <string name="auth_token_api">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2N2E3OTFjNzk0MDAwYjljM2FkZjg3ZTdhMzM4NjU5NyIsInN1YiI6IjYwNDU4YjJmZDNkMzg3MDA3MGJiODI0ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.92aWARdNZU-2HHsoIhWNFkJZrgerwGFzn9KzzdLjpiw</string>
 </resources>
